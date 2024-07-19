@@ -38,4 +38,6 @@ public class Book {
     @Column
     private Integer stock;
     // stock: 재고 수량. null이 허용됩니다 (재고가 없을 수 있음).
+
+
 }
